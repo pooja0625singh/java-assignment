@@ -1,0 +1,13 @@
+Question 4 :- 
+
+1. For this statement, List will be perfect to record all the name of employee and to pick random employee
+to give free toy by list.get() or list.get(rand.nextInt(list.size()).
+
+2. For this statement, Set will be perfect as we want a list of unique first name and Set doesn't allow any 
+duplicate value.
+
+3. For this statement, Map will be perfect as it return as key and value pairs where name will be the key and
+value will be the count of the employee with the popular first name.
+
+4. For this statement, Queue will be perfect as we can use add() to add the employee to the waiting list.
+
